@@ -16,7 +16,7 @@ const Header = props => {
 
   return (
     <div>
-      <Navbar color="faded" light>
+      <Navbar color="light" light>
         <NavbarBrand href="/" className="mr-auto">
           <h2>Portfolio</h2>
         </NavbarBrand>
